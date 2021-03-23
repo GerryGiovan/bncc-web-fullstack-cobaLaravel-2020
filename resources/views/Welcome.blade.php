@@ -10,7 +10,7 @@
                 Laravel
             </div>
 
-            Nama {{$fname}}
+            Nama {{$fname}} {{$lname}}
 
         </div>
 
